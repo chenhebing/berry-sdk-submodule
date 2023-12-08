@@ -1,0 +1,12 @@
+{
+  "name": "berry-sdk-submodule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chenhebing/berry-sdk-submodule.git",
+  "author": "chenhebing.007 <chenhebing.007@bytedance.com>",
+  "license": "MIT",
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "eslint": "^8.55.0"
+  }
+}
